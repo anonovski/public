@@ -1,0 +1,13 @@
+{
+    "name": "Fine Dog",
+    "symbol": "FINEDOG",
+    "description": "This is fine.",
+    "image": "https://github.com/anonovski/public/blob/main/thisisfine_optimized.png",
+    "website": "https://knowyourmeme.com/memes/this-is-fine",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
