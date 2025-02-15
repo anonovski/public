@@ -2,7 +2,7 @@
   "name": "PEPE.ZIP",
   "symbol": "PEPE",
   "description": "Help, I've turned into a cube!",
-  "image": "https://res.cloudinary.com/do7jjmyqm/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1739630917/pepe-zip_t8a7i5.png",
+  "image": "https://res.cloudinary.com/do7jjmyqm/image/upload/v1739630917/pepe-zip_t8a7i5.png",
   "external_url": "https://example.com",
   "attributes": [
     { "trait_type": "Creator", "value": "Pepe" },
