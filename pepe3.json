@@ -1,0 +1,11 @@
+{
+  "name": "PEPE.ZIP",
+  "symbol": "PEPE",
+  "description": "Help, I've turned into a cube!",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    { "trait_type": "Creator", "value": "Pepe" },
+    { "trait_type": "Website", "value": "https://creatorwebsite.com" }
+  ]
+}
