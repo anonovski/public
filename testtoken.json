@@ -1,0 +1,13 @@
+{
+    "name": "Test Token",
+    "symbol": "DIE",
+    "description": "I just want to die.",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/gabe-final.png",
+    "website": "http://meme.fandom.com/",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
