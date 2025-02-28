@@ -1,7 +1,7 @@
 {
-    "name": "Trenches Test Token",
+    "name": "Rewards Test Token",
     "symbol": "TTT",
-    "description": "Please do not buy, it's just a test token!",
+    "description": "Rewards test token!",
     "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/ttt.png",
     "website": "https://google.com",
     "attributes": [
