@@ -1,0 +1,13 @@
+{
+    "name": "Trenches Test Token",
+    "symbol": "TTT",
+    "description": "Please do not buy, it's just a test token!",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/gabe_the_bork_logo.png",
+    "website": "https://google.com",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
