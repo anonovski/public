@@ -1,0 +1,15 @@
+{
+    "name": "Community Wealth Token",
+    "symbol": "CWT",
+    "description": "Empowering Holders with Passive Rewards",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/cwt.png",
+    "website": "https://borkcrypto.ovh/",
+    "telegram": "https://t.me/communitywealthtoken",
+    "twitter": "https://x.com/communityCWT",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
