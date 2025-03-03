@@ -1,0 +1,13 @@
+{
+    "name": "Infinite Solana Printer",
+    "symbol": "ISP",
+    "description": "Simply hold ISP in your wallet and be rewarded.",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/ttt.png",
+    "website": "https://google.com",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
