@@ -1,0 +1,12 @@
+{
+    "name": "Automatic Solana Allocation",
+    "symbol": "ASA",
+    "description": " Hold ASA for just 10 minutes, and you’ll automatically start receiving rewards in $SOL!",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/asa.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
