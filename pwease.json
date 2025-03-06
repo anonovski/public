@@ -1,0 +1,13 @@
+{
+    "name": "Rewawds pwease",
+    "symbol": "RPWEASE",
+    "description": "Rewawds pwease, pwease.",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/pwease.jpg",
+    "website": "https://www.reddit.com/r/pics/comments/1j1veuj/you_shoulda_said_pwease",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
