@@ -1,0 +1,13 @@
+{
+    "name": "Nebulosa",
+    "symbol": "NBLA",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/nebulosa.png",
+    "website": "https://pepeswealthglitch.com/",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
