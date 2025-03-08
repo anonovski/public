@@ -1,0 +1,15 @@
+{
+    "name": "Profit Never Leaves",
+    "symbol": "PNL",
+    "description": "Profit Never Leaves (PNL) is an innovative cryptocurrency designed for the savvy investor who understands the power of holding.",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/pnl.png",
+    "website": "https://profitneverleaves.xyz/",
+    "telegram": "https://t.me/profitneverleaves",
+    "twitter": "https://x.com/pnlonsol",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
